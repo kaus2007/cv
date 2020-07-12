@@ -7,7 +7,7 @@ I have more than eight years experience in Defence Production Sector. I have wor
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-<img src="images/demo.gif?raw=true"/>
+<img src="https://github.com/kaus2007/cv/blob/master/images/Kaushik%20Formal.jpg"/>
 
 ### Installation
 
