@@ -1,7 +1,7 @@
 ## Curriculum Vitae || Kaushik Ghosh
 
 ---
-
+logo: "https://github.com/kaus2007/cv/blob/master/images/Kaushik%20Formal.jpg"
   <br>Kaushik has more than eight years experience in Defence Production Sector. <br>
   <br>He has worked with one of the leading arms and defence equipment manufacturers of the globe. <br>
   <br>He has worked in cross-functional areas of Governance, IT, Finance, Procurement and HR. <br>
