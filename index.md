@@ -8,7 +8,7 @@
   <br>Currently his area of work is Public Policy and Public Finance. He has several Economics, Policy and Finance related papers published on international journals.     <br>Officer at DDP, Ministry of Defence, Govt. of India<br>
   
 
-https://github.com/kaus2007/cv/blob/master/images/Kaushik%20Formal.jpg
+<img src = "https://github.com/kaus2007/cv/blob/master/images/Kaushik%20Formal.jpg"> <img>
 
 ---
 
