@@ -1,7 +1,7 @@
 title: Kaushik Ghosh # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <font size="8" pt="8"> <br>BE, Information Technology, School of Information Technology, West Bengal University of Technology ||
+  <p style="font-size:13px"> <br>BE, Information Technology, School of Information Technology, West Bengal University of Technology ||
   MBA, Vinod Gupta School of Management, Indian Institute of Technology, IIT Khragpur<br>
   <br>Author of various papers at many internationally published journals including top Business Schools of the globe ||
   Peer Reviewer ||
@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Finance Enthusiast || 
   Subject Expert of Economics, Mathematics and Finance on various online platforms ||
   Mentor for Civil Services preparation || 
-  Gazetted Officer, Ministry of Defence, Govt of India <font>
+  Gazetted Officer, Ministry of Defence, Govt of India <font> </p>
   
   <br> <a href="https://www.linkedin.com/in/kaushik-ghosh-bb3a2430/">View My LinkedIn Profile</a> <br> 
   <a href="https://hq.ssrn.com/submissions/MyPapers.cfm?partid=4021364">View My SSRN Page</a> 
