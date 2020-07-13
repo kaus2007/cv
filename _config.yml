@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   
   
-  <a href="https://www.linkedin.com/in/kaushik-ghosh-bb3a2430/">View My LinkedIn Profile</a> 
+  <br> <a href="https://www.linkedin.com/in/kaushik-ghosh-bb3a2430/">View My LinkedIn Profile</a> <br> 
   <a href="https://hq.ssrn.com/submissions/MyPapers.cfm?partid=4021364">View My SSRN Page</a> 
 # theme: jekyll-theme-leap-day
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
