@@ -24,13 +24,13 @@ description:
       
       <span class="separator">·</span>
       <a href="https://github.com/kaus2007" target="_blank" rel="noopener">
-        GitHub
+        
       </a>
       <span class="separator">·</span>
       <a href="https://www.linkedin.com/in/kaushik-ghosh-bb3a2430/"
          target="_blank"
          rel="noopener">
-        LinkedIn
+        
       </a>
     </p>
   </header>
