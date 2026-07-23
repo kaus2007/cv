@@ -10,18 +10,18 @@ description:
 
   <!-- HEADER -->
   <header class="header">
-    <h1>Kaushik Ghosh</h1>
+    <h1></h1>
 
     <p class="subtitle">
-      Government of India Officer · PhD Candidate · Researcher · Cybersecurity &amp; FinTech
+      
     </p>
 
     <p class="contact">
       <a href="mailto:kaushikghosh7@acm.org">
-        kaushikghosh7@acm.org
+        
       </a>
       <span class="separator">·</span>
-      +91-9874066080
+      
       <span class="separator">·</span>
       <a href="https://github.com/kaus2007" target="_blank" rel="noopener">
         GitHub
