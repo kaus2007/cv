@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Kaushik Ghosh
-description: Government of India Officer · PhD Candidate · Researcher · Cybersecurity & FinTech
+title: 
+description: 
 ---
 
 <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
