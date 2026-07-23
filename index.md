@@ -288,8 +288,7 @@ description:
   <!-- FOOTER -->
   <footer class="footer">
     <p>
-      &copy; {{ 'now' | date: "%Y" }} Kaushik Ghosh ·
-      Hosted on GitHub Pages
+      &copy; {{ 'now' | date: "%Y" }} 
     </p>
   </footer>
 
