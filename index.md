@@ -1,146 +1,296 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Kaushik Ghosh | Resume</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="style.css" rel="stylesheet">
-</head>
+---
+layout: default
+title: Kaushik Ghosh
+description: Government of India Officer · PhD Candidate · Researcher · Cybersecurity & FinTech
+---
 
-<body>
-  <main class="resume">
+<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 
-    <!-- HEADER -->
-    <header class="header">
-      <h1>Kaushik Ghosh</h1>
-      <p class="subtitle">
-        Government of India Officer · PhD Candidate · Researcher · Cybersecurity & FinTech
+<main class="resume">
+
+  <!-- HEADER -->
+  <header class="header">
+    <h1>Kaushik Ghosh</h1>
+
+    <p class="subtitle">
+      Government of India Officer · PhD Candidate · Researcher · Cybersecurity &amp; FinTech
+    </p>
+
+    <p class="contact">
+      <a href="mailto:kaushikghosh7@acm.org">
+        kaushikghosh7@acm.org
+      </a>
+      <span class="separator">·</span>
+      +91-9874066080
+      <span class="separator">·</span>
+      <a href="https://github.com/kaus2007" target="_blank" rel="noopener">
+        GitHub
+      </a>
+      <span class="separator">·</span>
+      <a href="https://www.linkedin.com/in/kaushik-ghosh-bb3a2430/"
+         target="_blank"
+         rel="noopener">
+        LinkedIn
+      </a>
+    </p>
+  </header>
+
+
+  <!-- SUMMARY -->
+  <section id="summary">
+    <h2>Summary</h2>
+
+    <p>
+      Gazetted Officer, Government of India, with over 10 years of experience
+      spanning cybersecurity, e-governance, defence IT systems, public
+      administration, and digital transformation. Published researcher in
+      Central Bank Digital Currency (CBDC), blockchain, artificial intelligence,
+      machine learning, and digital finance. Experienced peer reviewer for
+      international journals and an Oracle Certified Generative AI Professional.
+    </p>
+  </section>
+
+
+  <!-- CORE EXPERTISE -->
+  <section id="expertise">
+    <h2>Core Expertise</h2>
+
+    <ul class="skills">
+      <li>Cybersecurity &amp; Cyber Risk</li>
+      <li>Blockchain &amp; Web 3.0</li>
+      <li>Central Bank Digital Currency (CBDC)</li>
+      <li>Generative AI &amp; Machine Learning</li>
+      <li>Data Science, NLP &amp; Bibliometrics</li>
+      <li>Public Policy &amp; Quantitative Analysis</li>
+    </ul>
+  </section>
+
+
+  <!-- EXPERIENCE -->
+  <section id="experience">
+    <h2>Experience</h2>
+
+    <article class="resume-item">
+      <h3>Technical Officer</h3>
+
+      <p class="meta">
+        Ministry of Jal Shakti, Government of India · 2025–Present
       </p>
-      <p class="contact">
-        <a href="mailto:kaushikghosh7@acm.org">kaushikghosh7@acm.org</a> ·
-        +91-9874066080 ·
-        <a href="https://github.com/kaus2007">GitHub</a> ·
-        <a href="https://www.linkedin.com/in/kaushik-ghosh-bb3a2430/">LinkedIn</a>
-      </p>
-    </header>
 
-    <!-- SUMMARY -->
-    <section>
-      <h2>Summary</h2>
+      <ul>
+        <li>
+          Technology, finance, research and development, and digital-governance
+          support for national programmes and projects.
+        </li>
+      </ul>
+    </article>
+
+
+    <article class="resume-item">
+      <h3>Junior Works Manager</h3>
+
+      <p class="meta">
+        Ministry of Defence, Government of India · 2011–2025
+      </p>
+
+      <ul>
+        <li>
+          Worked across information technology, cybersecurity, finance,
+          procurement, governance, and administrative functions.
+        </li>
+
+        <li>
+          Contributed to cybersecurity governance, IT policy, digital
+          transformation, and implementation of large-scale government
+          information systems.
+        </li>
+      </ul>
+    </article>
+
+
+    <article class="resume-item">
+      <h3>Assistant Professor (Visiting)</h3>
+
+      <p class="meta">
+        International Institute of Management Sciences · 2023–Present
+      </p>
+
+      <ul>
+        <li>
+          Teaching and academic engagement in data analytics, emerging
+          technologies, management, and research methods.
+        </li>
+      </ul>
+    </article>
+
+  </section>
+
+
+  <!-- EDUCATION -->
+  <section id="education">
+    <h2>Education</h2>
+
+    <article class="resume-item">
+      <h3>PhD in Management</h3>
+
+      <p class="meta">
+        Indian Institute of Foreign Trade (IIFT), Kolkata · Pursuing
+      </p>
+
       <p>
-        Gazetted Officer, Government of India with 10+ years of experience in
-        cybersecurity, e-governance, and defence IT systems. Published researcher
-        in CBDC, blockchain, AI/ML, and digital finance; peer reviewer for
-        international journals; Oracle Certified Generative AI Professional.
+        Research areas: FinTech, Central Bank Digital Currency,
+        quantitative techniques, econometrics, artificial intelligence,
+        machine learning, and policy analytics.
       </p>
-    </section>
+    </article>
 
-    <!-- SKILLS -->
-    <section>
-      <h2>Core Expertise</h2>
-      <ul class="skills">
-        <li>Cybersecurity & Cyber Risk</li>
-        <li>Blockchain & Web 3.0</li>
-        <li>Central Bank Digital Currency (CBDC)</li>
-        <li>Generative AI & Machine Learning</li>
-        <li>Data Science, NLP & Bibliometrics</li>
-        <li>Public Policy & Quantitative Analysis</li>
-      </ul>
-    </section>
 
-    <!-- EXPERIENCE -->
-    <section>
-      <h2>Experience</h2>
+    <article class="resume-item">
+      <h3>Master of Business Administration (MBA)</h3>
 
-      <article>
-        <h3>Technical Officer</h3>
-        <p class="meta">Ministry of Jal Shakti, Government of India · 2025–Present</p>
-        <ul>
-          <li>Technology, finance, and R&D oversight for national projects</li>
-        </ul>
-      </article>
+      <p class="meta">
+        Vinod Gupta School of Management (VGSoM), IIT Kharagpur
+      </p>
+    </article>
 
-      <article>
-        <h3>Junior Works Manager (Cybersecurity & Policy)</h3>
-        <p class="meta">Ministry of Defence · 2021–2025</p>
-        <ul>
-          <li>Cybersecurity governance, IT policy, and digital transformation</li>
-          <li>Audited large-scale e-governance and IT infrastructure projects</li>
-        </ul>
-      </article>
 
-      <article>
-        <h3>Assistant Professor (Visiting)</h3>
-        <p class="meta">International Institute of Management Sciences · 2023–2024</p>
-        <ul>
-          <li>Taught data analytics, emerging technologies, and research methods</li>
-        </ul>
-      </article>
-    </section>
+    <article class="resume-item">
+      <h3>B.E. in Information Technology</h3>
 
-    <!-- EDUCATION -->
-    <section>
-      <h2>Education</h2>
+      <p class="meta">
+        West Bengal University of Technology
+      </p>
+    </article>
 
-      <article>
-        <h3>PhD in Management (FinTech & Quantitative Techniques)</h3>
-        <p class="meta">Indian Institute of Foreign Trade (Pursuing)</p>
-      </article>
+  </section>
 
-      <article>
-        <h3>MBA</h3>
-        <p class="meta">IIT Kharagpur, VGSoM</p>
-      </article>
 
-      <article>
-        <h3>B.E. in Information Technology</h3>
-        <p class="meta">West Bengal University of Technology</p>
-      </article>
-    </section>
+  <!-- RESEARCH -->
+  <section id="research">
+    <h2>Research Interests</h2>
 
-    <!-- PUBLICATIONS -->
-    <section>
-      <h2>Selected Publications</h2>
-      <ul>
-        <li>
-          <strong>Central Bank Digital Currencies – A Bibliometric Analysis</strong>,
-          International Journal of Law & Management (Scopus Q1)
-        </li>
-        <li>
-          <strong>CBDC Policy Implications using Sentiment & Polarity Analysis</strong>,
-          Education and Information Technologies (Scopus)
-        </li>
-        <li>
-          <strong>Cryptocurrency & Distributed Ledger Technologies</strong>,
-          Discover Analytics
-        </li>
-      </ul>
-    </section>
+    <ul class="skills">
+      <li>Central Bank Digital Currency</li>
+      <li>Digital Finance &amp; FinTech</li>
+      <li>Technology Adoption</li>
+      <li>Artificial Intelligence &amp; Machine Learning</li>
+      <li>Natural Language Processing</li>
+      <li>Blockchain &amp; Distributed Ledger Technology</li>
+      <li>Cybersecurity</li>
+      <li>Quantitative &amp; Policy Analytics</li>
+    </ul>
+  </section>
 
-    <!-- CERTIFICATIONS -->
-    <section>
-      <h2>Certifications</h2>
-      <ul>
-        <li>Oracle Cloud Infrastructure – Generative AI Professional</li>
-        <li>IMF – Public Financial Management</li>
-        <li>AWS & Alibaba Cloud (Security & Cloud Computing)</li>
-      </ul>
-    </section>
 
-    <!-- MEMBERSHIPS -->
-    <section>
-      <h2>Professional Memberships</h2>
-      <ul>
-        <li>Senior Member, Association for Computing Machinery (ACM)</li>
-        <li>Peer Reviewer – International journals in management & technology</li>
-      </ul>
-    </section>
+  <!-- PUBLICATIONS -->
+  <section id="publications">
+    <h2>Selected Publications &amp; Research</h2>
 
-    <!-- FOOTER -->
-    <footer class="footer">
-      <p>© Kaushik Ghosh · GitHub Pages Resume</p>
-    </footer>
+    <ul class="publications">
 
-  </main>
-</body>
-</html>
+      <li>
+        <strong>
+          Understanding Central Bank Digital Currency Adoption:
+          Bibliometric and AI-Driven Analysis
+        </strong>
+        <br>
+        <span class="publication-meta">
+          Digital Policy, Regulation and Governance, Emerald
+        </span>
+      </li>
+
+      <li>
+        <strong>
+          Central Bank Digital Currencies – A Bibliometric Analysis
+        </strong>
+        <br>
+        <span class="publication-meta">
+          International Journal of Law and Management, Emerald
+        </span>
+      </li>
+
+      <li>
+        <strong>
+          Research on CBDC Adoption, Digital Finance and
+          Policy Analytics
+        </strong>
+        <br>
+        <span class="publication-meta">
+          Ongoing doctoral and collaborative research
+        </span>
+      </li>
+
+    </ul>
+  </section>
+
+
+  <!-- CERTIFICATIONS -->
+  <section id="certifications">
+    <h2>Certifications &amp; Professional Development</h2>
+
+    <ul>
+      <li>
+        Oracle Cloud Infrastructure – Generative AI Professional
+      </li>
+
+      <li>
+        Professional training in cybersecurity, cloud computing,
+        artificial intelligence, economics, and public policy
+      </li>
+
+      <li>
+        Advanced academic and professional development in quantitative
+        research and digital technologies
+      </li>
+    </ul>
+  </section>
+
+
+  <!-- PROFESSIONAL MEMBERSHIPS -->
+  <section id="memberships">
+    <h2>Professional Memberships &amp; Academic Service</h2>
+
+    <ul>
+      <li>
+        Senior Member, Association for Computing Machinery (ACM)
+      </li>
+
+      <li>
+        Peer reviewer for international journals in management,
+        technology, sustainability, and digital finance
+      </li>
+
+      <li>
+        Reviewer for academic conferences and professional research
+        programmes
+      </li>
+    </ul>
+  </section>
+
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <h2>Contact</h2>
+
+    <p>
+      For academic collaboration, research, peer review, or professional
+      correspondence:
+    </p>
+
+    <p>
+      <a href="mailto:kaushikghosh7@acm.org">
+        kaushikghosh7@acm.org
+      </a>
+    </p>
+  </section>
+
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>
+      &copy; {{ 'now' | date: "%Y" }} Kaushik Ghosh ·
+      Hosted on GitHub Pages
+    </p>
+  </footer>
+
+</main>
